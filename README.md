@@ -1,14 +1,4 @@
-# You can find code in VIz.R
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(
-	echo = FALSE,
-	message = FALSE,
-	warning = FALSE
-)
+# You cn find plot code in viz.R
 
-
-source("viz.R")
-
-plot1
-```
+![](README_files/figure-gfm/unnamed-chunk-1-1.png)<!-- -->

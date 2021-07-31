@@ -1,0 +1,13 @@
+---
+  output: github_document
+---
+
+
+# You cn find plot code in viz.R
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+source("viz.R")
+
+plot1
+```
+
